@@ -17,6 +17,8 @@
 * Know how to create regressions and calculate moving averages using Excel.
 
 - - -
+# New section
+Very important content
 
 ### Helpful Links
 
