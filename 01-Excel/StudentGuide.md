@@ -3,6 +3,9 @@
 ## New Addition!
 It's new content!
 
+## Random Change
+Random change!
+
 ### Objectives
 
 * Gain perspective on the course structure and general direction of the program.
